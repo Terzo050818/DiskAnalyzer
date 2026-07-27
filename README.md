@@ -2,11 +2,22 @@
 
 ![DiskAnalyzer](src/DiskAnalyzer.App/Assets/Icons/disk-analyzer-icon-256.png)
 
-DiskAnalyzer 是一个面向 Windows 10/11 的磁盘大文件定位工具。选择一个固定磁盘后，它会扫描其中的真实文件，并在完成后按文件大小从大到小排列。
+## 磁盘满了，却找不到真正占空间的大文件？
 
-应用图标以硬盘、放大镜和大小不同的文件块表达“快速找到磁盘中最大的文件”，并已应用到 EXE、任务栏、窗口标题和主界面。
+你是否也遇到过这些情况：
 
-[下载最新 Windows x64 版本](https://github.com/Terzo050818/DiskAnalyzer/releases/latest)
+- C 盘空间不足，却不知道应该清理什么；
+- 逐级打开文件夹，只看到大量零散小文件；
+- 明明占用了几十 GB，却始终找不到真正的“大户”；
+- 想快速清理磁盘，却把时间浪费在手动翻找目录上。
+
+**DiskAnalyzer 只做一件事：扫描整个磁盘，把所有真实文件按大小排列，让你直接看到最大的文件在哪里、占用了多少空间。**
+
+> 选择磁盘，点击扫描，一分钟定位最占空间的大文件。
+
+它面向 Windows 10/11，不按照文件夹汇总，也不隐藏在复杂图表后面。扫描完成后，最大的文件会直接出现在列表顶部，并且可以一键打开所在位置。
+
+[立即下载最新 Windows x64 版本](https://github.com/Terzo050818/DiskAnalyzer/releases/latest)
 
 ## 普通用户下载
 
