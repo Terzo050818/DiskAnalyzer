@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.cli-home/
+.perf-data/
+.tools/
+artifacts/
+TestResults/
+*.user
+*.suo

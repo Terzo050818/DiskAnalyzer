@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\Icons\DiskAnalyzer.ico</ApplicationIcon>
+    <AssemblyName>DiskAnalyzer</AssemblyName>
+    <RootNamespace>DiskAnalyzer.App</RootNamespace>
+    <Product>DiskAnalyzer</Product>
+    <Description>Windows 磁盘大文件定位工具</Description>
+    <Version>0.1.2</Version>
+    <AssemblyVersion>0.1.2.0</AssemblyVersion>
+    <FileVersion>0.1.2.0</FileVersion>
+    <InformationalVersion>0.1.2-mvp</InformationalVersion>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Icons\DiskAnalyzer.ico" />
+    <Resource Include="Assets\Icons\disk-analyzer-icon-256.png" />
+  </ItemGroup>
+
+</Project>
