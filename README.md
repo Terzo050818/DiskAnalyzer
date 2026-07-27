@@ -1,8 +1,12 @@
 # DiskAnalyzer
 
+![DiskAnalyzer](src/DiskAnalyzer.App/Assets/Icons/disk-analyzer-icon-256.png)
+
 DiskAnalyzer 是一个面向 Windows 10/11 的磁盘大文件定位工具。选择一个固定磁盘后，它会扫描其中的真实文件，并在完成后按文件大小从大到小排列。
 
 应用图标以硬盘、放大镜和大小不同的文件块表达“快速找到磁盘中最大的文件”，并已应用到 EXE、任务栏、窗口标题和主界面。
+
+[下载最新 Windows x64 版本](https://github.com/Terzo050818/DiskAnalyzer/releases/latest)
 
 ## 普通用户下载
 
@@ -13,6 +17,10 @@ DiskAnalyzer 是一个面向 Windows 10/11 的磁盘大文件定位工具。选�
 3. 解压 ZIP；
 4. 解压后的文件夹根目录只有一个 `DiskAnalyzer.exe`；
 5. 双击 `DiskAnalyzer.exe` 即可使用。
+
+当前版本也可以直接下载：
+
+[DiskAnalyzer-0.1.2-win-x64.zip](https://github.com/Terzo050818/DiskAnalyzer/releases/download/v0.1.2/DiskAnalyzer-0.1.2-win-x64.zip)
 
 ## MVP 功能
 

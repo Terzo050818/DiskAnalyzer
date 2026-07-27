@@ -45,7 +45,8 @@ Release 配置测试结果：
 - 形式：.NET 8 自包含单文件；
 - 版本：0.1.2；
 - EXE 大小：71,919,213 Bytes；
-- ZIP 大小：66,301,757 Bytes；
+- 本机 ZIP 大小：66,301,757 Bytes；
+- GitHub Actions ZIP 大小：66,467,291 Bytes；
 - 从 ZIP 解压后的 EXE 启动验证：通过；
 - 产品名：DiskAnalyzer；
 - 文件版本：0.1.2.0；
@@ -55,7 +56,7 @@ Release 配置测试结果：
 SHA-256：
 
 ```text
-5297cb97bb414fa82b24e1a7c65667764c2d07ed02910e268e70c44dc8217dcb
+aa303af0fe5559236f991c093c789784b157a8337ff57e2a2260a137ce24735b
 ```
 
 ## 尚未在当前开发机验证
